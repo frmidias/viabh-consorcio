@@ -1,0 +1,6 @@
+{
+  "name": "ViaBH Consorcios",
+  "description": "Plataforma premium de simulacao de consorcios da ViaBH. Planeje mobilidade eletrica, utilitarios, veiculos, imoveis e servicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
