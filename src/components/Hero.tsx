@@ -50,7 +50,7 @@ export default function Hero({ config, selectedModalidade }: HeroProps) {
               </motion.div>
             </div>
 
-            {/* Main Title Heading */}
+            {/* Main Title Heading without red underline */}
             <h1 className="text-4xl sm:text-5xl lg:text-5xl xl:text-6xl font-display font-extrabold tracking-tight text-neutral-950 leading-[1.08]">
               Planeje sua próxima conquista com consórcio e <span className="text-brand-red relative inline-block">orientação especializada.</span>
             </h1>
