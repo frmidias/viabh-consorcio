@@ -53,7 +53,7 @@ export default function Faq({ config }: FaqProps) {
                 className={`border rounded-2xl transition-all duration-300 ${
                   isOpen 
                     ? "bg-brand-red/5 border-brand-red/30 shadow-xs" 
-                    : "bg-white border-neutral-200 hover:border-brand-red/25"
+                    : "bg-white border-neutral-200 hover:bg-brand-red/5 hover:border-brand-red/25 active:bg-brand-red/10"
                 }`}
               >
                 <button
