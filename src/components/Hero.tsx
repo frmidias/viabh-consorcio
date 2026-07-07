@@ -52,7 +52,7 @@ export default function Hero({ config, selectedModalidade }: HeroProps) {
 
             {/* Main Title Heading */}
             <h1 className="text-4xl sm:text-5xl lg:text-5xl xl:text-6xl font-display font-extrabold tracking-tight text-neutral-950 leading-[1.08]">
-              Planeje sua próxima conquista com consórcios e <span className="text-brand-red relative inline-block">orientação especializada.<span className="absolute bottom-1 left-0 w-full h-[4px] bg-brand-red/10 rounded-full" /></span>
+              Planeje sua próxima conquista com consórcio e <span className="text-brand-red relative inline-block">orientação especializada.</span>
             </h1>
 
             {/* Lead description paragraph */}
@@ -107,7 +107,7 @@ export default function Hero({ config, selectedModalidade }: HeroProps) {
               className="mt-6 overflow-hidden rounded-2xl border border-neutral-200/60 shadow-sm max-w-full lg:max-w-[580px]"
             >
               <img
-                src="https://i.ibb.co/NgT9ngS3/Foto-Consorsio.png"
+                src="https://i.ibb.co/JFB24vNS/Chat-GPT-Image-1-de-jul-de-2026-14-39-25.png"
                 alt="Consórcio ViaBH"
                 referrerPolicy="no-referrer"
                 className="w-full h-auto object-contain object-center rounded-2xl"

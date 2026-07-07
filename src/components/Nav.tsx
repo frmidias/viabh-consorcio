@@ -63,7 +63,7 @@ export default function Nav({ config, onUpdateConfig, isAdmin = false }: NavProp
                 <div className="flex flex-col justify-center select-none font-sans">
                   <div className="flex items-baseline gap-1.5">
                     <span className="font-sans font-extrabold text-lg sm:text-xl md:text-2xl lg:text-3xl text-neutral-900 tracking-tight leading-none">ViaBH</span>
-                    <span className="font-sans font-extrabold text-lg sm:text-xl md:text-2xl lg:text-3xl text-brand-red tracking-tight leading-none">Consórcios</span>
+                    <span className="font-sans font-extrabold text-lg sm:text-xl md:text-2xl lg:text-3xl text-brand-red tracking-tight leading-none">Consórcio</span>
                   </div>
                   <span className="font-sans text-[10px] sm:text-[11px] md:text-[11.5px] lg:text-[12.5px] font-bold text-neutral-500 uppercase tracking-[0.2em] leading-none mt-1.5">
                     REPRESENTANTE AUTORIZADO
@@ -320,7 +320,7 @@ export default function Nav({ config, onUpdateConfig, isAdmin = false }: NavProp
                     type="text"
                     value={empresa}
                     onChange={(e) => setEmpresa(e.target.value)}
-                    placeholder="ViaBH Consórcios"
+                    placeholder="ViaBH Consórcio"
                     className="w-full px-4 py-2.5 rounded-xl bg-neutral-50 border border-neutral-200 text-neutral-900 focus:border-brand-red focus:ring-2 focus:ring-brand-red/10 focus:outline-none font-semibold text-sm"
                   />
                 </div>
@@ -346,7 +346,7 @@ export default function Nav({ config, onUpdateConfig, isAdmin = false }: NavProp
                       // restore default configuration
                       setWhatsapp("553132458700");
                       setConsultor("equipe ViaBH");
-                      setEmpresa("ViaBH Consórcios");
+                      setEmpresa("ViaBH Consórcio");
                       setEndereco("Av. Barão Homem de Melo, 4454 - Estoril, Belo Horizonte - MG, 30494-270");
                     }}
                     className="px-4 py-2.5 border border-neutral-200 hover:bg-neutral-50 rounded-xl text-xs font-bold text-neutral-600 transition-colors"

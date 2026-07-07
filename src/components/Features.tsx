@@ -32,7 +32,7 @@ export function LogosStrip({ config }: SectionProps) {
               <Sparkles className="w-3.5 h-3.5 animate-pulse" /> Parceiros Credenciados
             </span>
             <h3 className="font-display font-extrabold text-2xl sm:text-3xl text-neutral-950 tracking-tight leading-tight">
-              ViaBH Consórcios: representantes autorizados
+              ViaBH Consórcio: representantes autorizados
             </h3>
             <p className="text-xs sm:text-sm text-neutral-600 mt-1 max-w-2xl font-medium">
               Atendimento com opções de instituições e administradoras reconhecidas no mercado de consórcios.
@@ -235,7 +235,7 @@ export function AuthoritySegment({ config }: SectionProps) {
                   <div className="flex flex-col justify-center select-none font-sans">
                     <div className="flex items-baseline gap-1">
                       <span className="font-sans font-extrabold text-xl sm:text-2xl text-neutral-950 tracking-tight leading-none">ViaBH</span>
-                      <span className="font-sans font-extrabold text-xl sm:text-2xl text-brand-red tracking-tight leading-none">Consórcios</span>
+                      <span className="font-sans font-extrabold text-xl sm:text-2xl text-brand-red tracking-tight leading-none">Consórcio</span>
                     </div>
                     <span className="font-sans text-[11px] sm:text-[12px] font-bold text-neutral-500 uppercase tracking-[0.2em] leading-normal mt-1.5 block">
                       REPRESENTANTE AUTORIZADO
@@ -317,7 +317,7 @@ export function AuthoritySegment({ config }: SectionProps) {
                 onClick={handleContact}
                 className="w-full py-4 bg-brand-red text-white text-xs font-black rounded-full text-center hover:bg-[#b01217] hover:shadow-md transition-all active:translate-y-0.5 block cursor-pointer uppercase tracking-widest"
               >
-                FALAR COM VIABH CONSÓRCIOS
+                FALAR COM VIABH CONSÓRCIO
               </button>
             </div>
           </div>

@@ -107,7 +107,7 @@ export default function Faq({ config }: FaqProps) {
                 Quer saber se o consórcio é viável para você?
               </h2>
               <p className="text-xs sm:text-sm text-white/90 max-w-xl mx-auto">
-                Fale com a ViaBH Consórcios e receba uma orientação personalizada para seu objetivo, orçamento e momento.
+                Fale com a ViaBH Consórcio e receba uma orientação personalizada para seu objetivo, orçamento e momento.
               </p>
             </div>
 

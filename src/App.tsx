@@ -12,7 +12,7 @@ const LOCAL_STORAGE_KEY = "viabh_partner_config";
 
 const DEFAULT_CONFIG: PartnerConfig = {
   whatsapp: "553132458700",
-  empresa: "ViaBH Consórcios",
+  empresa: "ViaBH Consórcio",
   consultor: "equipe ViaBH",
   endereco: "Av. Barão Homem de Melo, 4454 - Estoril, Belo Horizonte - MG, 30494-270",
 };
@@ -129,7 +129,7 @@ export default function App() {
                 {config.empresa}
               </span>
               <p className="leading-relaxed max-w-sm text-neutral-400">
-                Consórcios planejados para transformar seus objetivos em conquistas reais, com segurança, economia e orientação especializada.
+                Consórcio planejado para transformar seus objetivos em conquistas reais, com segurança, economia e orientação especializada.
               </p>
             </div>
 
