@@ -151,7 +151,7 @@ export default function App() {
             </div>
             <div>
               <p>
-                <span className="text-white font-medium text-[10px]">Desenvolvido por Fernanda Raissinger</span>
+                <span className="text-neutral-500 font-normal text-[10px]">Desenvolvido por Fernanda Raissinger</span>
               </p>
             </div>
           </div>
