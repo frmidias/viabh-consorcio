@@ -30,7 +30,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: radial-gradient(circle at center, #ffffff 60%, #fff5f5 85%, #ffe4e6 100%) no-repeat fixed;
+  background: radial-gradient(circle at center, #ffffff 75%, #fff9f9 90%, #fff3f4 100%) no-repeat fixed;
   background-color: #ffffff;
   color: #121216;
 }

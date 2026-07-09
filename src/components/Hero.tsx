@@ -30,8 +30,8 @@ export default function Hero({ config, selectedModalidade }: HeroProps) {
         </div>
       </div>
 
-      <div className="absolute top-20 left-[10%] w-96 h-96 bg-brand-red/5 rounded-full blur-3xl -z-10" />
-      <div className="absolute top-40 right-[15%] w-96 h-96 bg-brand-red/5 rounded-full blur-3xl -z-10" />
+      <div className="absolute top-20 left-[10%] w-96 h-96 bg-brand-red/[0.02] rounded-full blur-3xl -z-10" />
+      <div className="absolute top-40 right-[15%] w-96 h-96 bg-brand-red/[0.02] rounded-full blur-3xl -z-10" />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 xl:gap-14 items-start">
