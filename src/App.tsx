@@ -145,13 +145,13 @@ export default function App() {
           {/* Bottom Row / Ribbon: Copyright & Legal + Developer credits side-by-side */}
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4 text-neutral-500">
             <div>
-              <p className="leading-relaxed text-neutral-500 text-xs">
+              <p className="leading-relaxed text-neutral-500 text-[10px]">
                 © {new Date().getFullYear()} {config.empresa}. Todos os direitos reservados.
               </p>
             </div>
             <div>
               <p>
-                <span className="text-neutral-500 hover:text-brand-red transition-colors font-medium text-xs">Desenvolvido por Fernanda Raissinger</span>
+                <span className="text-white font-medium text-[10px]">Desenvolvido por Fernanda Raissinger</span>
               </p>
             </div>
           </div>
