@@ -32,7 +32,7 @@ export function LogosStrip({ config }: SectionProps) {
               <Sparkles className="w-3.5 h-3.5 animate-pulse" /> Administradoras Parceiras
             </span>
             <h3 className="font-display font-extrabold text-2xl sm:text-3xl text-neutral-950 tracking-tight leading-tight">
-              ViaBH Consórcio: Representante Credenciado
+              ViaBH Consórcio: Representante credenciado
             </h3>
             <p className="text-xs sm:text-sm text-neutral-600 mt-1 max-w-2xl font-medium">
               Trabalhamos com opções de consórcio por meio de instituições e administradoras reconhecidas no mercado.
