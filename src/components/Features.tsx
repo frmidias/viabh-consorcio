@@ -29,13 +29,13 @@ export function LogosStrip({ config }: SectionProps) {
         <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-8 mb-10 text-left">
           <div>
             <span className="inline-flex items-center gap-1.5 px-3 py-1 bg-brand-red/10 border border-brand-red/15 text-[10px] font-mono font-bold text-brand-red uppercase tracking-wider rounded-full mb-3 shadow-sm shadow-brand-red/5">
-              <Sparkles className="w-3.5 h-3.5 animate-pulse" /> Parceiros Credenciados
+              <Sparkles className="w-3.5 h-3.5 animate-pulse" /> Administradoras Parceiras
             </span>
             <h3 className="font-display font-extrabold text-2xl sm:text-3xl text-neutral-950 tracking-tight leading-tight">
-              ViaBH Consórcio: representantes autorizados
+              ViaBH Consórcio: Representante Credenciado
             </h3>
             <p className="text-xs sm:text-sm text-neutral-600 mt-1 max-w-2xl font-medium">
-              Atendimento com opções de instituições e administradoras reconhecidas no mercado de consórcios.
+              Trabalhamos com opções de consórcio por meio de instituições e administradoras reconhecidas no mercado.
             </p>
           </div>
           <button 
